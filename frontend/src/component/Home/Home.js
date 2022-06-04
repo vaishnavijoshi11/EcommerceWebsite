@@ -148,7 +148,7 @@ const Home = () => {
                 <div class="col-md-6">
                   <div class="detail-box">
                     <h5>
-                      Bostorek Bookstore
+                   Book n' Things Bookstore
                     </h5>
                     <h1>
                       For All Your 
